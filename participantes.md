@@ -20,7 +20,7 @@ Este arquivo será usado durante a oficina para praticar **commits, branches e p
 
 ## 📋 Lista de Participantes
 
-1. [ ] Nome do participante 1  
+1. [daniela ] Nome do participante 1  
 2. [ ] Nome do participante 2  
 3. [ ] Nome do participante 3  
 4. [ ] Nome do participante 4  
